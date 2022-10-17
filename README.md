@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/arthuroliveirasou" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://cdn.icon-icons.com/icons2/2530/PNG/256/linkedin_button_icon_151847.png alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
 
